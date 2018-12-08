@@ -24,7 +24,7 @@ div {
   border-width: 3.2px;
 }
 
- {
+.btn:hover {
   background-color: #333;
 }
 
